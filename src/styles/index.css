@@ -1,0 +1,21 @@
+/* src/styles/index.css */
+
+body {
+  background-color: #f5f6fa;
+  font-family: 'Poppins', sans-serif;
+}
+
+.card-gradient-purple {
+  background: linear-gradient(135deg, #6f42c1, #a29bfe);
+  color: white;
+}
+
+.card-gradient-blue {
+  background: linear-gradient(135deg, #1e90ff, #74b9ff);
+  color: white;
+}
+
+.card-gradient-green {
+  background: linear-gradient(135deg, #00b894, #55efc4);
+  color: white;
+}
